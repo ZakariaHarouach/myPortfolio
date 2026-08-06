@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/zakaria-harouach-824b2335b/',
   leetcode: "https://leetcode.com/u/begretthanyesterday/",
   devUsername: "ZakariaHarouach",
-  resume: "https://drive.google.com/file/d/1f5aerhBHnySIn_DZzc-CsUWwr-TvHMFo/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1OB-pctHoZ0cofaroQuAJwo70SX3EMFaM/view?usp=sharing"
 }
